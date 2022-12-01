@@ -1,5 +1,5 @@
 body {
-
+    
 }
 
 #banner {
@@ -33,4 +33,11 @@ em strong {
 
 .beneficios {
      background: #FFFFFF;
+}
+
+ul {
+    display: inline-block;
+}
+.imagembeneficios {
+    width: 50%;
 }
